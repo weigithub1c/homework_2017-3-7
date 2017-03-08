@@ -1,0 +1,1 @@
+Home_work项目中的down_piadice.pdf图片是用IO流下载好的。
